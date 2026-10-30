@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey, I'm Ruvio. 🐰
 
-<!--
-**heyruvio/heyruvio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build iOS apps. Each project gives me a chance to explore new ideas, solve problems, and learn something new.
 
-Here are some ideas to get you started:
+I enjoy that process just as much as seeing an idea come to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My toolkit
+
+`Swift` · `UIKit` · `SwiftUI` · `Xcode` · `GitHub Actions`
+
+### Down the rabbit hole
+
+- **App architecture** — making software easier to change
+- **Developer automation** — less repetition, more building
+- **AI-assisted development** — exploring practical ways to work smarter
